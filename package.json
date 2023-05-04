@@ -1,0 +1,16 @@
+{
+  "name": "eslint-mdx-expect-truthy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint --ext .mdx ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.23.1",
+    "eslint-plugin-mdx": "^2.0.4"
+  }
+}
